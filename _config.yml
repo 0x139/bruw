@@ -5,15 +5,15 @@ gems:
   - jemoji
   
 # Site settings
-title: "Mediator"
+title: "brμw"
 description: > # this means to ignore newlines until "email:"
-   A Jekyll theme - Medium inspired
+    a beer blog + api
 
 email: a-mail@mail.mail
 #blog logo
-logo: "/assets/images/df_logo.jpg"
+logo: "/assets/images/bruw_logo.jpg"
 # blog cover
-cover: "/assets/images/cA4aKEIPQrerBnp1yGHv_IMG_9534-3-2.jpg"
+cover: "/assets/images/bruw-banner-7.jpg"
 
 name: 'Dirk Fabisch'
 author: 'Dirk Fabisch'
