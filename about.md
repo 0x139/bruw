@@ -4,11 +4,13 @@ title: About
 permalink: /about/
 ---
 
-This is a beer centered project with two facets. Primarily, it is a blog about beer. It will also provde endpoints for an API that can be used to access data about the beer that is discussed on the blog.
+This is a project based on the consumption and enjoyment of beer. At it's core it is a blog about beer. 
 
-Aside from reviewing and talking about beer there will be occasional meta posts about creating and working on the API itself.
+In addition to simply posting pictures of and discussing drinks I will gather into a NoSQL database. 
 
-Hopefully there will also eventually be projects that use the API in various ways. But for now it will mostly consist of me drinking beer. :)
+Eventually I plan on providing endpoints for an API so that other beverage enthusiasts can use the data in any way they see fit.
+
+Hopefully in the future there will be projects that then  use the API in various ways. But for now it will mostly consist of me drinking beer. :)
 
 
 
