@@ -41,7 +41,8 @@ layout: default
               <h2 class="post-title" itemprop="name"><a href="{{ post.url }}" itemprop="url">{{ post.title }}</a></h2>
             </header>
             <section class="post-excerpt" itemprop="description">
-              <p><img src="{{ post.image }}" height="142px" width="142px"> {{ post.content | strip_html | truncatewords: 50 }}</p>
+             <a href="{{ post.url }}">
+		<img src="{{ post.image }}" align: left height="142px" width="142px"></a> <p>{{ post.content | strip_html | truncatewords: 50 }}</p>
             </section>
             <div class="post-meta">
               <time datetime="{{ post.date | date_to_long_string }}">{{ post.date | date_to_long_string }}</time>
