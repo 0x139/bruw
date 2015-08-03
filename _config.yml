@@ -11,18 +11,18 @@ description: > # this means to ignore newlines until "email:"
 
 email: ryan@0x139.org
 #blog logo
-logo: "{{ site.baseurl }}/assets/images/bruw_logo.jpg"
+logo: "/assets/images/bruw_logo.jpg"
 # blog cover
 cover: "/assets/images/bruw-banner-7.jpg"
 
-name: 'Dirk Fabisch'
-author: 'Dirk Fabisch'
+name: 'Ryan Aguilar'
+author: 'Ryan Aguilar'
 author_image: "/assets/images/author.jpg"
 
 paginate:	5
 
 url: "http://myblog.***.***" # the base hostname & protocol for your site
-baseurl: "/bruw"
+baseurl: ""
 
 # social icons and sharing options
 social:
