@@ -11,7 +11,7 @@ description: > # this means to ignore newlines until "email:"
 
 email: ryan@0x139.org
 #blog logo
-logo: "/assets/images/bruw_logo.jpg"
+logo: "{{ site.baseurl }}{{ post.url }}/assets/images/bruw_logo.jpg"
 # blog cover
 cover: "/assets/images/bruw-banner-7.jpg"
 
