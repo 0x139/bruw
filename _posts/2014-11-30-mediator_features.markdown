@@ -6,34 +6,12 @@ categories: mediator feature
 tags: featured
 image: /assets/article_images/2014-11-30-mediator_features/goldmine1.jpg
 ---
-#Mediator Formats and CSS features
+#Genesee Brewery
 
-Examples for different formats and css features
+##Goldmine Lager Beer
 
-#Header Formats
-#Header1
-##Header2
-
-#Blockquotes
->Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus
-
-#Lists
-##orderd lists
-1. one
-2. two
-3. three
-
-##unorderd lists
-- Apple
-- Banana
-- Plum
+###From the company:
+>Strike gold in just one sip with the delicious taste of Goldmine Premium Beer. Our beer prospectors seek out the finest quality ingredients and work hard to brew the best beer around. The news has already spread — drinking Goldmine is a richly rewarding experience.
 
 #Links
-This is an [example link](http://example.com/ "With a Title").
-
-#Combinations
->Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus
->
-> - Apple
-> - Banana
-> - Plum
+http://www.goldminelager.com
