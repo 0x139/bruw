@@ -42,7 +42,7 @@ layout: default
             </header>
             <section class="post-excerpt" itemprop="description">
              <a href="{{ post.url }}">
-		<img src="{{ post.image }}" align: left height="300px" width="300px"></a><a href="{{ post.url }}"> <img src="{{ post.image2 }}" vertical-align: middle ></a> <p>{{ post.content | strip_html | truncatewords: 50 }}</p>
+		<img src="{{ post.thumb1 }}" align: left height="300px" width="300px"></a><a href="{{ post.url }}"> <img src="{{ post.thumb2 }}" vertical-align: middle ></a> <p>{{ post.content | strip_html | truncatewords: 50 }}</p>
             </section>
             <div class="post-meta">
               <time datetime="{{ post.date | date_to_long_string }}">{{ post.date | date_to_long_string }}</time>
