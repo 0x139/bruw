@@ -6,7 +6,7 @@ categories: mediator feature
 tags: featured
 image: /assets/article_images/2014-11-30-mediator_features/goldmine1.jpg
 thumb1: /assets/article_images/2014-11-30-mediator_features/GoldMineLogo_000_scaled.jpg
-thumb2: /assets/article_images/2014-11-30-mediator_features/mean_logo_scaled.jpg
+thumb2: /assets/article_images/2014-11-30-mediator_features/mean_logo_2.jpg
 ---
 #Genesee Brewery
 
