@@ -6,9 +6,38 @@
 </description>
     <link>http://bruw.org/</link>
     <atom:link href="http://bruw.org/feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Mon, 03 Aug 2015 19:15:58 -0700</pubDate>
-    <lastBuildDate>Mon, 03 Aug 2015 19:15:58 -0700</lastBuildDate>
+    <pubDate>Mon, 03 Aug 2015 22:25:27 -0700</pubDate>
+    <lastBuildDate>Mon, 03 Aug 2015 22:25:27 -0700</lastBuildDate>
     <generator>Jekyll v2.4.0</generator>
+    
+      <item>
+        <title>Goldmine+MEAN</title>
+        <description>&lt;h1&gt;First Post!&lt;/h1&gt;
+
+&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum dapibus sapien dignissim, pharetra massa vitae, vestibulum ipsum. In id magna et lacus tempor aliquet. Mauris ut tortor ac mi consectetur viverra id vitae justo. Donec aliquet odio eget lacus bibendum commodo sit amet sit amet tellus. Etiam cursus, enim et accumsan euismod, dolor quam volutpat tellus, eu auctor metus erat eget odio. Aliquam et sem at lorem eleifend viverra at quis nibh. Suspendisse potenti. Curabitur id tellus vitae sapien viverra pharetra at sed elit. Curabitur blandit ex in rhoncus commodo. Sed vel vulputate nisi. Nulla volutpat orci velit, at lobortis ligula sodales at. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Nam libero leo, iaculis non purus eget, posuere consequat tortor. Nam efficitur dignissim odio, vitae dictum justo accumsan ut. Ut porttitor suscipit dictum.&lt;/p&gt;
+
+&lt;p&gt;In hac habitasse platea dictumst. Donec vitae felis eget sem cursus pellentesque at nec felis. Donec ex felis, iaculis at luctus eu, rhoncus sed elit. Nulla id ex ut ante vulputate faucibus non eu nibh. Donec ac finibus purus, vel hendrerit mauris. Cras vel metus non arcu gravida dictum. Morbi imperdiet risus lorem, et interdum nisi porta sit amet. Donec egestas tristique eleifend.&lt;/p&gt;
+
+&lt;p&gt;Integer congue felis vitae justo pretium maximus. Vestibulum et justo sed dui fermentum rutrum. Quisque eros ipsum, condimentum sit amet magna eget, posuere porta massa. Donec ante odio, iaculis eu erat ut, lobortis auctor felis. Vivamus ante nulla, suscipit sit amet tellus eu, imperdiet tincidunt neque. Integer consectetur velit id libero luctus, at consectetur quam commodo. Nulla lacinia feugiat volutpat. Nulla consequat ipsum molestie, vestibulum elit ut, lobortis nisl. Aliquam ultricies lectus urna, at efficitur lacus suscipit sagittis. Vestibulum tempus lacus erat, non vehicula ligula eleifend quis. Sed venenatis vehicula neque vitae pulvinar. Nam finibus eros quis nibh commodo dapibus.&lt;/p&gt;
+
+&lt;p&gt;Ut dictum placerat libero quis euismod. Donec eget dui dignissim, bibendum metus ac, sollicitudin lacus. Quisque facilisis porta lectus, et condimentum nunc molestie tincidunt. Proin orci dui, volutpat vel ex nec, tincidunt hendrerit leo. Sed quis neque enim. Nullam imperdiet quis velit blandit lacinia. In semper sollicitudin neque. Quisque sagittis neque metus, et convallis mauris malesuada id. Duis condimentum dolor est, ac lacinia sapien ullamcorper et.&lt;/p&gt;
+
+&lt;div class=&quot;post-image-image&quot; style=&quot;background-image: url(/assets/article_images/2014-11-30-mediator_features/goldmine1.jpg)&quot;&gt;
+          &lt;img src=&quot;/assets/images/goldmine1.jpg&gt;
+&lt;/div&gt;
+</description>
+        <pubDate>Mon, 03 Aug 2015 07:34:25 -0700</pubDate>
+        <link>http://bruw.org/beer/tech/2015/08/03/first_post_draft.html</link>
+        <guid isPermaLink="true">http://bruw.org/beer/tech/2015/08/03/first_post_draft.html</guid>
+        
+        <category>featured</category>
+        
+        
+        <category>beer</category>
+        
+        <category>tech</category>
+        
+      </item>
     
       <item>
         <title>Goldmine</title>
