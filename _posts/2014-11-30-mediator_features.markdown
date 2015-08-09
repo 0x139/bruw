@@ -18,7 +18,7 @@ thumb2: /assets/article_images/2014-11-30-mediator_features/mean_logo_2.jpg
 Test, test
 
   <img src="/assets/article_images/2014-11-30-mediator_features/mean_logo2.jpg"/>
-  <p class="red">Bruski</p>
+  The first beer I'm reviewing is called <p class="red">Bruwski</p>. It's a <p class="blue">stout</p>.
 
 #Links
 http://www.goldminelager.com
