@@ -17,9 +17,9 @@ thumb2: /assets/article_images/2014-11-30-mediator_features/mean_logo_2.jpg
 
 Test, test
 
-<div class="container">
+<div class="blockquote">
   <img src="/assets/article_images/2014-11-30-mediator_features/mean_logo2.jpg"/>
-  <div class="child"><p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua</p></div>
+  <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua</p>
 </div>
 
 #Links
