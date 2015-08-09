@@ -17,10 +17,8 @@ thumb2: /assets/article_images/2014-11-30-mediator_features/mean_logo_2.jpg
 
 Test, test
 
-<div class="testdiv">
   <img src="/assets/article_images/2014-11-30-mediator_features/mean_logo2.jpg"/>
-  <testdiv>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua</testdiv>
-</div>
+  <p class="red">Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua</p>
 
 #Links
 http://www.goldminelager.com
