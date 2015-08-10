@@ -20,5 +20,8 @@ Test, test
   <img src="/assets/article_images/2014-11-30-mediator_features/mean_logo2.jpg"/>
   The first beer I'm reviewing is called <p class="red">Bruwski</p>. It's a <p class="blue">stout</p>.
 
+The next beer on our list is <p class="red">Slow Ride</p>.
+It's an <p class="blue">IPA</p>.
+
 #Links
 http://www.goldminelager.com
