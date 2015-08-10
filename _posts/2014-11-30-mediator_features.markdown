@@ -25,7 +25,7 @@ It's an <p class="blue">IPA</p>.
 
 <testdiv>How about this?</testdiv>
 
-Now we're testing the beer called <beername>Hopdevil</beername>. It's an <type>beername</type>. It's a strong beer with an ABV of <abv>9.8</abv>%.
+Now we're testing the beer called <beername>Hopdevil</beername>. It's an <type>IPA</type>. It's a strong beer with an ABV of <abv>9.8</abv>%.
 
 #Links
 http://www.goldminelager.com
