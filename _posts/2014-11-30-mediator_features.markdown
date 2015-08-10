@@ -25,5 +25,7 @@ It's an <p class="blue">IPA</p>.
 
 <testdiv>How about this?</testdiv>
 
+Now we're testing the beer called <beername>Hopdevil</beername>.
+
 #Links
 http://www.goldminelager.com
