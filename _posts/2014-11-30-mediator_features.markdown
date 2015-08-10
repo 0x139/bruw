@@ -23,5 +23,7 @@ Test, test
 The next beer on our list is <p class="red">Slow Ride</p>.
 It's an <p class="blue">IPA</p>.
 
+<testdiv>How about this?</testdiv>
+
 #Links
 http://www.goldminelager.com
