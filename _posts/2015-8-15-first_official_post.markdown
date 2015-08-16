@@ -36,6 +36,15 @@ We're going to start off by reviewing three different IPAs. Throughout the revie
 
 ---
 
+###Humboldt Brewing Co. Nectar IPA
+
+<img src="https://drive.google.com/uc?id=0B7uSWNRYY5IudmxqREFZbTk4RnM">
+
+###From the company:
+>Our rad IPA is created from a base of Pale and Crystal malts and aggressively jopped throughout the brewing process. Its caramel mal presence is a nice balance to the high hop bitterness and hop flavor end to end.
+
+---
+
 <img src="https://drive.google.com/uc?id=0B7uSWNRYY5IuT2ZrajB5UTJhMVE">
 
 The first <type>IPA></type> on our list is <beername>Finestkind</beername> by Smuttynose. From what I can tell it's a solid IPA without too much hoppy-ness. The first thing I smelled was orange.
