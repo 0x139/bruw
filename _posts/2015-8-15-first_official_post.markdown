@@ -14,13 +14,13 @@ thumb2: /assets/article_images/2014-11-30-mediator_features/mean_logo_2.jpg
 
 Although the site has been up for awhile this is the first official post with pictures and everything.
 
-We're going to start off by reviewing three different IPAs. Through the review I'm going to talk a little bit about how I created the API that ties into this blog and how it can be accessed, both for getting data or inputting your own.
+We're going to start off by reviewing three different IPAs. Through the review I'm going to talk a little bit about how I created the API that ties into this blog and how it can be accessed, both for getting data and inputting your own.
 
 ###The Three IPAs:
 
 ####Smuttynose Finestkind IPA
 
-<img src="/assets/article_images/
+<img src="https://drive.google.com/uc?id=0B7uSWNRYY5IuNDYzc0tGakMtN0k"
 
 ###From the company:
 >Strike gold in just one sip with the delicious taste of Goldmine Premium Beer. Our beer prospectors seek out the finest quality ingredients and work hard to brew the best beer around. The news has already spread — drinking Goldmine is a richly rewarding experience.
