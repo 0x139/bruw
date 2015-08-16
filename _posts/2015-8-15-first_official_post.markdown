@@ -25,7 +25,7 @@ We're going to start off by reviewing three different IPAs. Through the review I
 ###From the company:
 >Finestkind IPA is our salute to the American hop grower, a beer taht's meant for hop lovers looking to satisfy their craving in a way that's not easy to find. Its citrusy hop flavor, pleasantly balanced bya smooth bitterness, makes this veer very easy to drink.
 
-<img src="https://drive.google.com/uc?id=0B7uSWNRYY5IuT2ZrajB5UTJhMVE"
+<img src="https://drive.google.com/uc?id=0B7uSWNRYY5IuT2ZrajB5UTJhMVE">
 
 From what I can tell it's a solid IPA without too much hoppy-ness. The first thing I smelled was orange.
 
