@@ -23,7 +23,7 @@ We're going to start off by reviewing three different IPAs. Through the review I
 <img src="https://drive.google.com/uc?id=0B7uSWNRYY5IuNDYzc0tGakMtN0k">
 
 ###From the company:
->Strike gold in just one sip with the delicious taste of Goldmine Premium Beer. Our beer prospectors seek out the finest quality ingredients and work hard to brew the best beer around. The news has already spread — drinking Goldmine is a richly rewarding experience.
+>Finestkind IPA is our salute to the American hop grower, a beer taht's meant for hop lovers looking to satisfy their craving in a way that's not easy to find. Its citrusy hop flavor, pleasantly balanced bya smooth bitterness, makes this veer very easy to drink.
 
 Test, test
 
