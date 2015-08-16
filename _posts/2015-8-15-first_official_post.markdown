@@ -25,15 +25,9 @@ We're going to start off by reviewing three different IPAs. Through the review I
 ###From the company:
 >Finestkind IPA is our salute to the American hop grower, a beer taht's meant for hop lovers looking to satisfy their craving in a way that's not easy to find. Its citrusy hop flavor, pleasantly balanced bya smooth bitterness, makes this veer very easy to drink.
 
-Test, test
+<img src="https://drive.google.com/uc?id=0B7uSWNRYY5IuT2ZrajB5UTJhMVE"
 
-  <img src="/assets/article_images/2014-11-30-mediator_features/mean_logo2.jpg"/>
-  The first beer I'm reviewing is called <p class="red">Bruwski</p>. It's a <p class="blue">stout</p>.
-
-The next beer on our list is <p class="red">Slow Ride</p>.
-It's an <p class="blue">IPA</p>.
-
-<testdiv>How about this?</testdiv>
+From what I can tell it's a solid IPA without too much hoppy-ness. The first thing I smelled was orange.
 
 Now we're testing the beer called <beername>Hopdevil</beername>. It's an <type>IPA</type>. It's a strong beer with an ABV of <abv>9.8</abv>%.
 
