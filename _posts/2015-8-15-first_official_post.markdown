@@ -15,7 +15,7 @@ Although the site has been up for awhile this is the first official post with pi
 
 We're going to start off by reviewing three different IPAs. Throughout the review I'm going to talk a little bit about how I created the API that ties into this blog and how it can be accessed, both for getting data and inputting your own.
 
-###The Three IPAs:
+##The Three IPAs:
 ---
 
 ####Smuttynose Finestkind IPA
@@ -45,10 +45,13 @@ We're going to start off by reviewing three different IPAs. Throughout the revie
 
 ---
 
+##Breakdown
+---
 
-The first <type>IPA></type> on our list is <beername>Finestkind</beername> by Smuttynose. From what I can tell it's a solid IPA without too much hoppy-ness. The first thing I smelled was orange.
+The first <type>IPA</type> on our list is <beername>Finestkind</beername> by Smuttynose. From what I can tell it's a solid IPA without too much hoppy-ness. The first thing I smelled was orange.
 
-Now we're testing the beer called <beername>Hopdevil</beername>. It's an <type>IPA</type>. It's a strong beer with an ABV of <abv>9.8</abv>%.
 
 #Links
-http://www.goldminelager.com
+http://www.northcoastbrewing.com
+http://www.humboldtbrewingco.com
+http://smuttynose.com
