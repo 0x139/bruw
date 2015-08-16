@@ -16,6 +16,7 @@ Although the site has been up for awhile this is the first official post with pi
 We're going to start off by reviewing three different IPAs. Throughout the review I'm going to talk a little bit about how I created the API that ties into this blog and how it can be accessed, both for getting data and inputting your own.
 
 ###The Three IPAs:
+---
 
 ####Smuttynose Finestkind IPA
 
@@ -23,6 +24,7 @@ We're going to start off by reviewing three different IPAs. Throughout the revie
 
 ###From the company:
 >Finestkind IPA is our salute to the American hop grower, a beer that's meant for hop lovers looking to satisfy their craving in a way that's not easy to find. Its citrusy hop flavor, pleasantly balanced by a smooth bitterness, makes this beer very easy to drink.
+---
 
 ####Nortchoast Brewing Acme IPA
 
@@ -30,6 +32,7 @@ We're going to start off by reviewing three different IPAs. Throughout the revie
 
 ###From the company:
 >Acme IPA is profoundly hoppy, finished with over a pound of fresh whole hops per barrel. The result of this generous hopping is a beer that is deliciously dry, and eminently drinkable in spite of its apparent strength.
+---
 
 <img src="https://drive.google.com/uc?id=0B7uSWNRYY5IuT2ZrajB5UTJhMVE">
 
