@@ -4,7 +4,7 @@ title:  "IPAs & APIs"
 date:   2015-08-15 14:34:25
 categories: ipa api
 tags: featured
-image: https://drive.google.com/uc?id=0B7uSWNRYY5IuOWZkZUxuODhiSTA
+image: https://drive.google.com/uc?id=0B7uSWNRYY5IuRXBINHA4VFJOeGM
 thumb1: https://drive.google.com/uc?id=0B7uSWNRYY5IuOWZkZUxuODhiSTA
 thumb2: /assets/article_images/2014-11-30-mediator_features/mean_logo_2.jpg
 ---
