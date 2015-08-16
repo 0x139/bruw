@@ -27,7 +27,7 @@ We're going to start off by reviewing three different IPAs. Through the review I
 
 <img src="https://drive.google.com/uc?id=0B7uSWNRYY5IuT2ZrajB5UTJhMVE">
 
-From what I can tell it's a solid IPA without too much hoppy-ness. The first thing I smelled was orange.
+The first <type>IPA></type> on our list is <beername>Finestkind</beername> by Smuttynose. From what I can tell it's a solid IPA without too much hoppy-ness. The first thing I smelled was orange.
 
 Now we're testing the beer called <beername>Hopdevil</beername>. It's an <type>IPA</type>. It's a strong beer with an ABV of <abv>9.8</abv>%.
 
