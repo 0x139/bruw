@@ -20,7 +20,7 @@ We're going to start off by reviewing three different IPAs. Through the review I
 
 ####Smuttynose Finestkind IPA
 
-<img src="https://drive.google.com/uc?id=0B7uSWNRYY5IuNDYzc0tGakMtN0k"
+<img src="https://drive.google.com/uc?id=0B7uSWNRYY5IuNDYzc0tGakMtN0k">
 
 ###From the company:
 >Strike gold in just one sip with the delicious taste of Goldmine Premium Beer. Our beer prospectors seek out the finest quality ingredients and work hard to brew the best beer around. The news has already spread — drinking Goldmine is a richly rewarding experience.
