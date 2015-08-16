@@ -9,12 +9,11 @@ thumb1: https://drive.google.com/uc?id=0B7uSWNRYY5IuOWZkZUxuODhiSTA
 thumb2: /assets/article_images/2014-11-30-mediator_features/mean_logo_2.jpg
 ---
 #IPAs & APIs
-
-##First Offical Post
+---
 
 Although the site has been up for awhile this is the first official post with pictures and everything.
 
-We're going to start off by reviewing three different IPAs. Through the review I'm going to talk a little bit about how I created the API that ties into this blog and how it can be accessed, both for getting data and inputting your own.
+We're going to start off by reviewing three different IPAs. Throughout the review I'm going to talk a little bit about how I created the API that ties into this blog and how it can be accessed, both for getting data and inputting your own.
 
 ###The Three IPAs:
 
@@ -23,7 +22,14 @@ We're going to start off by reviewing three different IPAs. Through the review I
 <img src="https://drive.google.com/uc?id=0B7uSWNRYY5IuNDYzc0tGakMtN0k">
 
 ###From the company:
->Finestkind IPA is our salute to the American hop grower, a beer taht's meant for hop lovers looking to satisfy their craving in a way that's not easy to find. Its citrusy hop flavor, pleasantly balanced bya smooth bitterness, makes this veer very easy to drink.
+>Finestkind IPA is our salute to the American hop grower, a beer that's meant for hop lovers looking to satisfy their craving in a way that's not easy to find. Its citrusy hop flavor, pleasantly balanced by a smooth bitterness, makes this beer very easy to drink.
+
+####Nortchoast Brewing Acme IPA
+
+<img src="https://drive.google.com/uc?id=0B7uSWNRYY5IuQmM4YWFQbkJUSFE">
+
+###From the company:
+>Acme IPA is profoundly hoppy, finished with over a pound of fresh whole hops per barrel. The result of this generous hopping is a beer that is deliciously dry, and eminently drinkable in spite of its apparent strength.
 
 <img src="https://drive.google.com/uc?id=0B7uSWNRYY5IuT2ZrajB5UTJhMVE">
 
