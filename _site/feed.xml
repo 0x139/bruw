@@ -6,23 +6,23 @@
 </description>
     <link>http://bruw.org/</link>
     <atom:link href="http://bruw.org/feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Sun, 16 Aug 2015 16:00:09 -0700</pubDate>
-    <lastBuildDate>Sun, 16 Aug 2015 16:00:09 -0700</lastBuildDate>
+    <pubDate>Sun, 16 Aug 2015 16:56:05 -0700</pubDate>
+    <lastBuildDate>Sun, 16 Aug 2015 16:56:05 -0700</lastBuildDate>
     <generator>Jekyll v2.4.0</generator>
     
       <item>
         <title>IPAs &amp; APIs</title>
         <description>&lt;h1&gt;IPAs &amp;amp; APIs&lt;/h1&gt;
 
+&lt;p&gt;Although the site has been up for a while now this is the first official post. With pictures and everything!&lt;/p&gt;
+
+&lt;p&gt;I&amp;#39;ll start off by reviewing three different IPAs: Finestkind by Smuttynose, Acme by Northcoast, and Nectar by Humboldt.&lt;/p&gt;
+
+&lt;p&gt;Throughout the review I&amp;#39;ll also talk a little bit about the API that ties into this blog and how it can be accessed, both for getting data and inputting your own.&lt;/p&gt;
+
 &lt;hr&gt;
-
-&lt;p&gt;Although the site has been up for awhile this is the first official post with pictures and everything.&lt;/p&gt;
-
-&lt;p&gt;We&amp;#39;re going to start off by reviewing three different IPAs. Throughout the review I&amp;#39;m going to talk a little bit about how I created the API that ties into this blog and how it can be accessed, both for getting data and inputting your own.&lt;/p&gt;
 
 &lt;h2&gt;The Three IPAs:&lt;/h2&gt;
-
-&lt;hr&gt;
 
 &lt;h4&gt;Smuttynose Finestkind IPA&lt;/h4&gt;
 
@@ -60,13 +60,13 @@
 
 &lt;hr&gt;
 
-&lt;h2&gt;Breakdown&lt;/h2&gt;
+&lt;h2&gt;First Impressions&lt;/h2&gt;
 
-&lt;hr&gt;
+&lt;p&gt;&lt;/p&gt;
 
 &lt;h4&gt;Finestkind&lt;/h4&gt;
 
-&lt;p&gt;&lt;div style=&quot;float: left&quot;&gt;&lt;img src=&quot;https://drive.google.com/uc?id=0B7uSWNRYY5IuT2NDMUhLelBrNzA&quot; style=&quot;margin: 10px 10px 0px 0px&quot;&gt;&lt;/div&gt; The first &lt;type&gt;IPA&lt;/type&gt; on our list is &lt;beername&gt;Finestkind&lt;/beername&gt; by Smuttynose. From what I can tell it&amp;#39;s a solid IPA without too much hoppy-ness. The first thing I smelled was orange. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean lobortis dapibus sem, vel vehicula felis semper vitae. Suspendisse porta turpis a euismod auctor. Interdum et malesuada fames ac ante ipsum primis in faucibus. Duis ornare feugiat arcu, ac congue est lobortis non. Fusce venenatis venenatis ultricies. In vel feugiat est, vel feugiat mi. Praesent volutpat euismod massa, nec pretium neque interdum ut. Integer malesuada vitae tortor vitae ultricies. Duis accumsan metus vitae est efficitur, a feugiat ante volutpat. Quisque magna leo, efficitur vel neque quis, posuere molestie risus. Morbi dictum purus malesuada, ornare odio ac, molestie felis. Vivamus vel justo.&lt;/p&gt;
+&lt;p&gt;&lt;div style=&quot;float: left&quot;&gt;&lt;img src=&quot;https://drive.google.com/uc?id=0B7uSWNRYY5IuT2NDMUhLelBrNzA&quot; style=&quot;margin: 10px 10px 0px 0px&quot;&gt;&lt;/div&gt; &lt;p&gt;The first &lt;type&gt;IPA&lt;/type&gt; on our list is &lt;beername&gt;Finestkind&lt;/beername&gt; by Smuttynose. From what I can tell it&amp;#39;s a solid IPA without too much hoppy-ness. The first thing I smelled was orange. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean lobortis dapibus sem, vel vehicula felis semper vitae. Suspendisse porta turpis a euismod auctor. Interdum et malesuada fames ac ante ipsum primis in faucibus. Duis ornare feugiat arcu, ac congue est lobortis non. Fusce venenatis venenatis ultricies. In vel feugiat est, vel feugiat mi. Praesent volutpat euismod massa, nec pretium neque interdum ut. Integer malesuada vitae tortor vitae ultricies. Duis accumsan metus vitae est efficitur, a feugiat ante volutpat. Quisque magna leo, efficitur vel neque quis, posuere molestie risus. Morbi dictum purus malesuada, ornare odio ac, molestie felis. Vivamus vel justo.&lt;/p&gt;&lt;/p&gt;
 
 &lt;hr&gt;
 
@@ -74,6 +74,28 @@
 
 &lt;p&gt;&lt;div style=&quot;float: left&quot;&gt;&lt;img src=&quot;https://drive.google.com/uc?id=0B7uSWNRYY5IuN2wtVzNmWm9PMlk&quot; style=&quot;margin: 10px 10px 0px 0px&quot;&gt;&lt;/div&gt;&lt;p&gt; The next &lt;type&gt;IPA&lt;/type&gt; is the &lt;beername&gt;Nectar IPA&lt;/beername&gt; by Humboldt Brewing Co. It&amp;#39;s got an ABV of &lt;abv&gt;6.7&lt;/abv&gt;% with 60 IBUs. The first impression I got when I smelled it was of oranges. The first time I tried it I couldn&amp;#39;t quite put my finger on the taste. It was definitely sweet, almost like a candy. On the second time through I finally realized: orange flintstone vitamins.&lt;/p&gt;
 &lt;p&gt;This was my favorite of all three IPAs. Typically when I taste a citrus flavored IPA it is almost awlays of grapefruit, so it&amp;#39;s a nice change of pace&lt;/p&gt;&lt;/p&gt;
+
+&lt;h4&gt;Acme&lt;/h4&gt;
+
+&lt;p&gt;&lt;div style=&quot;float: left&quot;&gt;&lt;img src=&quot;https://drive.google.com/uc?id=0B7uSWNRYY5IuN2wtVzNmWm9PMlk&quot; style=&quot;margin: 10px 10px 0px 0px&quot;&gt;&lt;/div&gt;&lt;p&gt; The next &lt;type&gt;IPA&lt;/type&gt; is the &lt;beername&gt;Nectar IPA&lt;/beername&gt; by Humboldt Brewing Co. It&amp;#39;s got an ABV of &lt;abv&gt;6.7&lt;/abv&gt;% with 60 IBUs. The first impression I got when I smelled it was of oranges. The first time I tried it I couldn&amp;#39;t quite put my finger on the taste. It was definitely sweet, almost like a candy. On the second time through I finally realized: orange flintstone vitamins.&lt;/p&gt;
+&lt;p&gt;Now I&amp;#39;m going to switch gears and go into the API for a minute or so. If you don&amp;#39;t care about the tech stuff then you can &lt;a href=&quot;#beer-fragment&quot;&gt;skip ahead &lt;/a&gt; to the rest of the beer review&lt;/p&gt;.&lt;/p&gt;
+
+&lt;hr&gt;
+
+&lt;h2&gt;The API&lt;/h2&gt;
+
+&lt;p&gt;&lt;/p&gt;
+
+&lt;h3&gt;RESTful&lt;/h3&gt;
+
+&lt;p&gt;The API is accessed through typical REST URIs. Here&amp;#39;s a quick rundown of what can be accessed at present:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;p&gt;&lt;strong&gt;http://bruw.org/api/beers&lt;/strong&gt;&lt;br /&gt;
+List all beers in the database&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;&lt;strong&gt;http://bruw.org/api/beers/:by_id&lt;/strong&gt;&lt;br/&gt;
+List a specific beer by ID&lt;/p&gt;&lt;/li&gt;
+&lt;/ul&gt;
 
 &lt;hr&gt;
 

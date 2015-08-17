@@ -9,14 +9,16 @@ thumb1: https://drive.google.com/uc?id=0B7uSWNRYY5IuOWZkZUxuODhiSTA
 thumb2: /assets/images/restful_logo.jpg
 ---
 #IPAs & APIs
+
+Although the site has been up for a while now this is the first official post. With pictures and everything!
+
+I'll start off by reviewing three different IPAs: Finestkind by Smuttynose, Acme by Northcoast, and Nectar by Humboldt.
+
+Throughout the review I'll also talk a little bit about the API that ties into this blog and how it can be accessed, both for getting data and inputting your own.
+
 ---
-
-Although the site has been up for awhile this is the first official post with pictures and everything.
-
-We're going to start off by reviewing three different IPAs. Throughout the review I'm going to talk a little bit about how I created the API that ties into this blog and how it can be accessed, both for getting data and inputting your own.
 
 ##The Three IPAs:
----
 
 ####Smuttynose Finestkind IPA
 
@@ -45,13 +47,12 @@ We're going to start off by reviewing three different IPAs. Throughout the revie
 
 ---
 
-##Breakdown
-
----
+##First Impressions
+<p></p>
 
 ####Finestkind
 
-<div style="float: left"><img src="https://drive.google.com/uc?id=0B7uSWNRYY5IuT2NDMUhLelBrNzA" style="margin: 10px 10px 0px 0px"></div> The first <type>IPA</type> on our list is <beername>Finestkind</beername> by Smuttynose. From what I can tell it's a solid IPA without too much hoppy-ness. The first thing I smelled was orange. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean lobortis dapibus sem, vel vehicula felis semper vitae. Suspendisse porta turpis a euismod auctor. Interdum et malesuada fames ac ante ipsum primis in faucibus. Duis ornare feugiat arcu, ac congue est lobortis non. Fusce venenatis venenatis ultricies. In vel feugiat est, vel feugiat mi. Praesent volutpat euismod massa, nec pretium neque interdum ut. Integer malesuada vitae tortor vitae ultricies. Duis accumsan metus vitae est efficitur, a feugiat ante volutpat. Quisque magna leo, efficitur vel neque quis, posuere molestie risus. Morbi dictum purus malesuada, ornare odio ac, molestie felis. Vivamus vel justo.
+<div style="float: left"><img src="https://drive.google.com/uc?id=0B7uSWNRYY5IuT2NDMUhLelBrNzA" style="margin: 10px 10px 0px 0px"></div> <p>The first <type>IPA</type> on our list is <beername>Finestkind</beername> by Smuttynose. From what I can tell it's a solid IPA without too much hoppy-ness. The first thing I smelled was orange. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean lobortis dapibus sem, vel vehicula felis semper vitae. Suspendisse porta turpis a euismod auctor. Interdum et malesuada fames ac ante ipsum primis in faucibus. Duis ornare feugiat arcu, ac congue est lobortis non. Fusce venenatis venenatis ultricies. In vel feugiat est, vel feugiat mi. Praesent volutpat euismod massa, nec pretium neque interdum ut. Integer malesuada vitae tortor vitae ultricies. Duis accumsan metus vitae est efficitur, a feugiat ante volutpat. Quisque magna leo, efficitur vel neque quis, posuere molestie risus. Morbi dictum purus malesuada, ornare odio ac, molestie felis. Vivamus vel justo.</p>
 
 ---
 
@@ -60,6 +61,23 @@ We're going to start off by reviewing three different IPAs. Throughout the revie
 <div style="float: left"><img src="https://drive.google.com/uc?id=0B7uSWNRYY5IuN2wtVzNmWm9PMlk" style="margin: 10px 10px 0px 0px"></div><p> The next <type>IPA</type> is the <beername>Nectar IPA</beername> by Humboldt Brewing Co. It's got an ABV of <abv>6.7</abv>% with 60 IBUs. The first impression I got when I smelled it was of oranges. The first time I tried it I couldn't quite put my finger on the taste. It was definitely sweet, almost like a candy. On the second time through I finally realized: orange flintstone vitamins.</p>
 <p>This was my favorite of all three IPAs. Typically when I taste a citrus flavored IPA it is almost awlays of grapefruit, so it's a nice change of pace</p>
 
+####Acme
+
+<div style="float: left"><img src="https://drive.google.com/uc?id=0B7uSWNRYY5IuN2wtVzNmWm9PMlk" style="margin: 10px 10px 0px 0px"></div><p> The next <type>IPA</type> is the <beername>Nectar IPA</beername> by Humboldt Brewing Co. It's got an ABV of <abv>6.7</abv>% with 60 IBUs. The first impression I got when I smelled it was of oranges. The first time I tried it I couldn't quite put my finger on the taste. It was definitely sweet, almost like a candy. On the second time through I finally realized: orange flintstone vitamins.</p>
+<p>Now I'm going to switch gears and go into the API for a minute or so. If you don't care about the tech stuff then you can <a href="#beer-fragment">skip ahead </a> to the rest of the beer review</p>.
+
+---
+
+##The API
+<p></p>
+###RESTful
+The API is accessed through typical REST URIs. Here's a quick rundown of what can be accessed at present:
+
+* **http://bruw.org/api/beers**<br />
+List all beers in the database
+
+* **http://bruw.org/api/beers/:by_id**<br/>
+List a specific beer by ID
 
 ---
 
@@ -67,3 +85,5 @@ We're going to start off by reviewing three different IPAs. Throughout the revie
 http://www.northcoastbrewing.com
 http://www.humboldtbrewingco.com
 http://smuttynose.com
+
+
