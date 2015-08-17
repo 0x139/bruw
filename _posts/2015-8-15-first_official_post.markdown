@@ -63,7 +63,7 @@ Throughout the review I'll also talk a little bit about the API that ties into t
 
 ####Acme
 
-<div style="float: left"><img src="https://drive.google.com/uc?id=0B7uSWNRYY5IuN2wtVzNmWm9PMlk" style="margin: 10px 10px 0px 0px"></div><p> The next <type>IPA</type> is the <beername>Nectar IPA</beername> by Humboldt Brewing Co. It's got an ABV of <abv>6.7</abv>% with 60 IBUs. The first impression I got when I smelled it was of oranges. The first time I tried it I couldn't quite put my finger on the taste. It was definitely sweet, almost like a candy. On the second time through I finally realized: orange flintstone vitamins.</p>
+<div style="float: left"><img src="https://drive.google.com/uc?id=0B7uSWNRYY5IuN2wtVzNmWm9PMlk" style="margin: 10px 10px 0px 0px"></div><p><div class="beer_desc"> The next <type>IPA</type> is the <beername>Nectar IPA</beername> by Humboldt Brewing Co. It's got an ABV of <abv>6.7</abv>% with 60 IBUs. The first impression I got when I smelled it was of oranges. The first time I tried it I couldn't quite put my finger on the taste. It was definitely sweet, almost like a candy. On the second time through I finally realized: orange flintstone vitamins.</p>
 <p>Now I'm going to switch gears and go into the API for a minute or so. If you don't care about the tech stuff then you can <a href="#beer-fragment">skip ahead </a> to the rest of the beer review</p>.</div>
 
 ---
