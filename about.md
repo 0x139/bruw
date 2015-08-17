@@ -4,13 +4,14 @@ title: About
 permalink: /about/
 ---
 
-This is a project based on the consumption and enjoyment of beer. At it's core it is a blog about beer. 
+bruw.org is a project built around the consumption of various types of beverages. At it's core it is a blog about beer. Yes I'll write about other beverages; wine and liquor maybe; even coffee! But the bulk of it will be about beer.
 
-In addition to simply posting pictures of and discussing drinks I will gather data into a NoSQL database. 
+And that's not all. This project is a chance for me to learn more about data. All of the beverages I write about in the blog and all of the data associated with those beverages will be accessible through a REST API.
 
-Eventually I plan on providing endpoints for an API so that other beverage enthusiasts can use the data in any way they see fit.
+There are many great beer review sites out there and this blog is not intended to replace them. It is only to document my own beverage experiences with the ability to interact with those experiences programatically.
 
-Hopefully in the future there will be projects that use the API in various ways. But for now it will mostly consist of me drinking beer. :)
+I'm neither a professional brewer nor a software engineer. This is just a learning experience.
+
 
 
 
